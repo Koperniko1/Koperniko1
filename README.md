@@ -11,7 +11,7 @@
   <!-- Banner Image -->
   <img src="https://i.imgur.com/7omNfmy.jpeg" alt="banner that says Cesar Rodriguez - Data Analyst, Content Creator and Community Enthusiast" style="max-width: 100%; height: auto;">
 
-  <p>I'm a Data Analyst passionate about uncovering insights, building powerful data-driven solutions, and empowering decision-making with analytics. Some technologies I enjoy working with include Python, SQL, Pandas, Plotly, Tableau, Google Sheets, Colab, and BigQuery. I am always learning and improving my skills in the data science ecosystem. 📊📚</p>
+  <p>I'm a Data Analyst passionate about uncovering insights, building powerful data-driven solutions, and empowering decision-making with analytics. Some technologies I enjoy working with include Python, SQL, Pandas, Plotly, Tableau, Google Sheets, Colab, and BigQuery. I am always learning and improving my skills in data analysis. 📊📚</p>
 
   <p>Connect with me through:</p>
 
